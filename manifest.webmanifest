@@ -2,8 +2,8 @@
   "name": "HIPPIQUE SYSTÈME PRO",
   "short_name": "HIPPIQUE PRO",
   "description": "Bulletin hippique numérique pour préparer les réunions, courses, bases, champs réduits et combinés",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/Amigo-/index.html",
+  "scope": "/Amigo-/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#eaf0f3",
@@ -16,5 +16,6 @@
       "type": "image/svg+xml",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "id": "/Amigo-/hippique-systeme-pro"
 }
