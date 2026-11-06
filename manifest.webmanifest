@@ -7,17 +7,17 @@
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#eaf0f3",
-  "theme_color": "#14375a",
+  "theme_color": "#064b32",
   "lang": "fr",
   "icons": [
     {
-      "src": "/Amigo-syst-me-pro/hippique/hippique-logo-192.png",
+      "src": "/Amigo-syst-me-pro/hippique/hippique-logo-192.png?v=20261106-2",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/Amigo-syst-me-pro/hippique/hippique-logo-512.png",
+      "src": "/Amigo-syst-me-pro/hippique/hippique-logo-512.png?v=20261106-2",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
